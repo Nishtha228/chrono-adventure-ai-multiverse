@@ -88,3 +88,4 @@ The game now includes an original **Chrono Meme System**:
 
 ### Tutorial fix
 The first-time tutorial now advances automatically when actions are performed and also includes NEXT and SKIP TUTORIAL controls.
+Game deployed with GitHub Pages
